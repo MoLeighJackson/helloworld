@@ -12,4 +12,8 @@
     <script type="text/javascript">
       alert('*Afternoon Moon*');
       </script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" ></script>
+      <script>
+             $("h1").text("¡Hola, Mundo!"); 
+          </script>
 </html>
