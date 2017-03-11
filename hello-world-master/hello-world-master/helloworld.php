@@ -8,4 +8,8 @@
       echo "Hello World!";
       ?></h1>
     </body>
+
+    <script type="text/javascript">
+      alert('*Afternoon Moon*');
+      </script>
 </html>
